@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-006-poverty-and-economic-security-fall-2016/9f96be60666250919f0bb646cc422872_censusdata.JPG
+file: /media/courses/11-006-poverty-and-economic-security-fall-2016/9f96be60666250919f0bb646cc422872_censusdata.JPG
 file_type: image/jpeg
 image_metadata:
   caption: 'Figure 1: Real Median Household Income by Race and Hispanic Origin, 1967-2015.
@@ -9,6 +9,10 @@ image_metadata:
   credit: Courtesy of the United States Census Bureau. This image is in the public
     domain.
   image-alt: A graph of household income by race from 1967 to 2015.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Syllabus
+parent_type: CourseSection
 resourcetype: Image
 title: censusdata.JPG
 uid: 9f96be60-6662-5091-9f0b-b646cc422872
