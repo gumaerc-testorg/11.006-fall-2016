@@ -13,6 +13,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 7bd84638-d260-ec64-f6a5-4f8712e5211d
 resourcetype: Image
 title: censusdata.JPG
 uid: 9f96be60-6662-5091-9f0b-b646cc422872
