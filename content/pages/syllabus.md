@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes an overview of the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7bd84638-d260-ec64-f6a5-4f8712e5211d
 ---
@@ -19,7 +22,7 @@ Course Description
 
 Discussions preceding the upcoming presidential election (2016) reveal discontent and feelings of insecurity among Americans. Individuals, families and households are anxious, finding it difficult and in some places impossible to earn a living wage no matter how hard they work. Uncertainty about one's respective economic circumstances is growing, and a lack of clear explanation for rising economic disparity is raising questions about individual prospects for membership in the middle class. At the same time, Americans living at income levels at or below the poverty line - the truly poor exist in the shadows and are mostly silent and often utterly ignored by the general population. In this class, we will study the topic of poverty and economic security through the lens of the lived experience of Americans: individuals, families, and households. We will explore the history, geography, and forces shaping the likelihood of being poor in America.
 
-![A graph of the real median household income, by race and Hispanic origin.]({{< resource_file 9f96be60-6662-5091-9f0b-b646cc422872 >}})
+{{< resource 9f96be60-6662-5091-9f0b-b646cc422872 >}}
 
 Courtesy of the United States Census Bureau. This image is in the public domain.
 
