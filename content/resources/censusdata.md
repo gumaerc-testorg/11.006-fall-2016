@@ -10,6 +10,7 @@ image_metadata:
     domain.
   image-alt: A graph of household income by race from 1967 to 2015.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Syllabus
 parent_type: CourseSection
