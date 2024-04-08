@@ -11,7 +11,7 @@ uid: 96290304-7157-72a0-a619-96befa3a0c3a
 Assignment Expectations
 -----------------------
 
-This course requires three written assignments and one group assignment, culminating in a written report. Select 3 assignments from the list below. You must include assignment 1, and we will all work together on assignment 4. The class project will require that students achieve fluency in the [Human Subjects Research](https://www.citiprogram.org/index.cfm?pageID=88) convention that governs interview-based research. This is a qualification researchers seek prior to conducting research with human subjects.
+This course requires three written assignments and one group assignment, culminating in a written report. Select 3 assignments from the list below. You must include assignment 1, and we will all work together on assignment 4. The class project will require that students achieve fluency in the {{% resource_link "1f5ccc82-af76-463b-a923-9a9f96acf685" "Human Subjects Research" %}} convention that governs interview-based research. This is a qualification researchers seek prior to conducting research with human subjects.
 
 Assignment 1
 ------------
@@ -23,7 +23,7 @@ In not more than 6 pages (double-spaced), present the image or narrative, explai
 Assignment 2 (Select One)
 -------------------------
 
-**Assignment 2(A):** A data exercise in which students review data and write a "story" and an analysis. This exercise can use a range of types and sources of data. We will have an in-class tutorial on GIS. Maps, tables, and charts are expected. Students are encouraged to use [ESRI's STORY MAP](https://storymaps.arcgis.com/en/) online publishing tool. Extra credit will be available.6-8 pages.Due Class 8.
+**Assignment 2(A):** A data exercise in which students review data and write a "story" and an analysis. This exercise can use a range of types and sources of data. We will have an in-class tutorial on GIS. Maps, tables, and charts are expected. Students are encouraged to use {{% resource_link "eb768c67-c06e-467a-b088-18e21abf75e0" "ESRI's STORY MAP" %}} online publishing tool. Extra credit will be available.6-8 pages.Due Class 8.
 
 **Assignment 2(B):** A policy, sector or program memorandum focused on issues such as immigration, education, international comparisons on global urban poverty, policy transitions, etc. 6-8 pages. This must be well-documented and analytical in intent. Due Class 8.
 
@@ -53,4 +53,4 @@ MassHealth will soon be awarding contracts to newly formed Accountable Care Orga
 
 Salaries for this emerging profession are not yet standardized, and adoption of living wages for Community Health Workers has not been considered when determining pay ranges for the cohort. We will be working with the professional association representing Community Health Workers in Massachusetts, to create compensation guidelines that reflect the competencies, roles, and value of our members anticipating issuance of state policy guidelines.
 
-Working with the [Living Wage Calculator](http://livingwage.mit.edu/) operated at MIT, we have developed a procedure to collect and find true local costs of living. This information will be collected and processed, and will be compared to the minimum wage, poverty income wages, and recommendations will be made about the cost of living in counties around the state. Students will be assigned zip codes and will collect data, compare their findings, and compile this information to be embedded in the calculator. We will co-author the report for the Community Health Care Workers Association of the state.
+Working with the {{% resource_link "b4572503-9b44-4df8-b652-af3bd7c6e902" "Living Wage Calculator" %}} operated at MIT, we have developed a procedure to collect and find true local costs of living. This information will be collected and processed, and will be compared to the minimum wage, poverty income wages, and recommendations will be made about the cost of living in counties around the state. Students will be assigned zip codes and will collect data, compare their findings, and compile this information to be embedded in the calculator. We will co-author the report for the Community Health Care Workers Association of the state.
