@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/11-006-poverty-and-economic-security-fall-2016/9f96be60666250919f0bb646cc422872_censusdata.JPG
+file_size: 93182
 file_type: image/jpeg
 image_metadata:
   caption: 'Figure 1: Real Median Household Income by Race and Hispanic Origin, 1967-2015.
