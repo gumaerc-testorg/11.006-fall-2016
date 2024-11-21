@@ -204,7 +204,7 @@ Dobbs, R. A., J. Manyika Madgavkar, J. Woetzel, J. Bughin, E. Labaye, and P. Kas
 
 Piketty, Thomas, and Emmanuel Saez. "[Inequality in the Long Run](http://science.sciencemag.org/content/344/6186/838)." *Science* 344, no. 6186 (2014): 838-843.
 
-[Chapter 1](https://pages.wustl.edu/files/pages/imce/fazz/ad_1_1_rank.pdf) in Hirschl, Thomas A., and Kirk A. Foster. *Chasing the American Dream: Understanding What Shapes Our Fortunes*. Oxford University Press, 2014. ISBN: 9780190467029.
+Chapter 1 in Hirschl, Thomas A., and Kirk A. Foster. *Chasing the American Dream: Understanding What Shapes Our Fortunes*. Oxford University Press, 2014. ISBN: 9780190467029. \[[Preview with Google Books](https://www.google.com/books/edition/Chasing_the_American_Dream/hjvtAgAAQBAJ?hl=en&gbpv=1)\]
 
 Chapter 10 in Stiglitz, Joseph E. *The Price of Inequality: How Today's Divided Society Endangers Our Future*. WW Norton & Company, 2012. ISBN: 9780393345063.
 
