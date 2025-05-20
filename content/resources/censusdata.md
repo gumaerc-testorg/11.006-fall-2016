@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/11-006-poverty-and-economic-security-fall-2016/9f96be60666250919f0bb646cc422872_censusdata.JPG
+file: /courses/11-006-poverty-and-economic-security-fall-2016/9f96be60666250919f0bb646cc422872_censusdata.JPG
 file_size: 93182
 file_type: image/jpeg
 image_metadata:
